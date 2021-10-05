@@ -4,6 +4,7 @@ package main
 // 1. bisa mendaftarkan rencana meeting,dengan informasi tanggal,jam, tempat, client
 // 2. Dapat melihat jadual meeting untuk hari ini, atau besok (fleksibel berdasarkan jumlah hari yang diinput)
 // 3. Dapat membatalkan meeting, dengan memasukan informasi alasannya
+// okey
 
 import (
 	"meeting/config"
